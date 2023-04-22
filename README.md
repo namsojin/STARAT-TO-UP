@@ -27,6 +27,27 @@
 - 다중 이미지 파일 업로드 기능 구현
 - 다국어 기능 구현(영어)
 
+## Preview
+![priview](https://user-images.githubusercontent.com/120362971/233781495-c5163f7a-2145-4d88-a962-883bcaacb8ef.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233781516-5e25dc6a-9dc1-4f65-a117-4024258ecc00.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233781536-786667dc-9b54-4190-a1d0-094e561b99e3.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233781560-b72f5e01-f528-4df0-a4f1-a99500d8f2ec.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233782914-9d739ad2-c08e-4d2c-b22c-87b10c61bed4.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233782944-52028270-0383-49bf-93cb-1d3563e0842c.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233782959-dba65083-65c4-4857-8624-1d282aee96e3.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233783214-4d0613dd-fa97-4aae-abf0-65d00fca0498.png)
+***
+![priview](https://user-images.githubusercontent.com/120362971/233783257-f0316ff7-1ae0-481d-b279-c64b3ffdbb07.png)
+
+
+
 
 
 
